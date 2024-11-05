@@ -1,1 +1,1 @@
-Visita: https://pizza1enrique.netlify.app/
+Visita: https://pizzeriareact2.netlify.app/
